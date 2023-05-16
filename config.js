@@ -1,1 +1,1 @@
-console.log("This is prod config file")
+console.log("This is test config file")
