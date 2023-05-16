@@ -1,1 +1,1 @@
-console.log("This is second config file")
+console.log("This is prod config file")
