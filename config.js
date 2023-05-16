@@ -1,1 +1,1 @@
-console.log("This is one config file")
+console.log("This is second config file")
